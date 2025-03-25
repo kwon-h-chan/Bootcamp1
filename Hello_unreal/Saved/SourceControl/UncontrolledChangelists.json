@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Bootcamp1/Hello_unreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Megascans/3D/Dirty_Metal_Chair_ukikdggbw/Medium/SM_ukikdggbw_tier_2.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/NewMap.umap",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Generic_Leather_Glove/defaultMat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Generic_Leather_Glove/generic_leather_glove.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Generic_Leather_Glove/generic_leather_glove_texture_0.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Generic_Leather_Glove/generic_leather_glove_texture_1.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Generic_Leather_Glove/generic_leather_glove_texture_2.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Generic_Leather_Glove/generic_leather_glove_texture_3.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Megascans/3D/Dirty_Metal_Chair_ukikdggbw/Medium/MI_ukikdggbw.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/VigilanteContent/Vehicles/East_Ship_Sovremenny/Materials/Textures/T_East_Ship_Sovremenny_02_Mat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/VigilanteContent/Vehicles/East_Ship_Sovremenny/Materials/Textures/T_East_Ship_Sovremenny_04_ARM_Mat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/VigilanteContent/Vehicles/East_Ship_Sovremenny/Materials/Textures/T_East_Ship_Sovremenny_04_Mat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Megascans/3D/Dirty_Metal_Chair_ukikdggbw/Medium/T_ukikdggbw_2k_B.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Megascans/3D/Dirty_Metal_Chair_ukikdggbw/Medium/T_ukikdggbw_2k_Mat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Megascans/3D/Dirty_Metal_Chair_ukikdggbw/Medium/T_ukikdggbw_2k_N.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Megascans/3D/Dirty_Metal_Chair_ukikdggbw/Medium/T_ukikdggbw_2k_ORM.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Fab/Megascans/3D/Dirty_Metal_Chair_ukikdggbw/Medium/T_ukikdggbw_2k_ORM_Mat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/StarterContent/Textures/T_Water_Mat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/TandM/asd_Mat.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/TandM/asd2.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/TandM/asd3.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Blueprints/Bp_actor.uasset",
+				"C:/Bootcamp1/Hello_unreal/Content/Blueprints/Bp_actor1.uasset"
+			]
+		}
+	]
+}
